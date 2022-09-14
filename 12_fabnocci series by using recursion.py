@@ -7,7 +7,7 @@ def fibonacci(num):
 
 nterms = 10
 
-print "Fibonacci sequence"
+print("Fibonacci sequence")
 
-for num in range(numbers):
+for num in range(nterms):
     print fibonacci(num)
